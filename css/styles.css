@@ -1,0 +1,19 @@
+@charset "UTF-8";.my-class {
+    color: saddlebrown;
+    border: 3px solid pink;
+    background-color: burlywood;
+    padding: 0.5em;
+    text-align: center;
+}
+#my-id {
+    color: saddlebrown;
+    background-color:lavender;
+	padding: 2em;
+	border: 7px solid pink; 
+}
+.my-class2 {
+    background-color: pink;
+	padding:1em;
+	text-align: center;
+	border: 5px solid lavender;
+}
