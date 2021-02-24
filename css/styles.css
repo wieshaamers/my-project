@@ -9,11 +9,23 @@
     color: saddlebrown;
     background-color:lavender;
 	padding: 2em;
-	border: 7px solid pink; 
+	border: 7px solid pink;
+	font-size: 16px;
 }
 .my-class2 {
     background-color: pink;
 	padding:1em;
 	text-align: center;
 	border: 5px solid lavender;
+}
+.my-class3 {
+	background-color: cornflowerblue
+}
+#id2 {
+	font-size: 20px;
+	color:antiquewhite;
+	background-color: darksalmon;
+	padding: inherit;
+	border: 3px solid snow; 
+	
 }
