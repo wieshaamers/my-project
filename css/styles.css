@@ -17,3 +17,14 @@
 	text-align: center;
 	border: 5px solid lavender;
 }
+.my-class3 {
+	background-color: cornflowerblue
+}
+#id2 {
+	font-size: 20px;
+	color:antiquewhite;
+	background-color: darksalmon;
+	padding: inherit;
+	border: 3px solid snow; 
+	
+}
