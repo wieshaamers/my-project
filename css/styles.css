@@ -1,37 +1,39 @@
 @charset "UTF-8";.my-class {
-    color: saddlebrown;
+    color: hotpink;
+	font-size: 40px;
     border: 3px solid pink;
     background-color: burlywood;
-    padding: 0.5em;
-    text-align: center;
+    padding: 1em;
+    text-align: center;	
+	background-image: url("../images/Clouds-Background-HD.jpg");
+	font-family: 'Berkshire Swash';font-size: 40px;
 	
 }
 #my-id {
     color: saddlebrown;
     background-color:lavender;
-	padding: 2em;
+	padding: 1em;
 	border: 7px solid pink;
-	font-size: 16px;
+	font-size: 20px;
 	align-content: center;
 	text-align: center;
 }
+
 .my-class2 {
 	color: cornflowerblue;
     background-color: pink;
-	padding:1em;
-	text-align: center;
+	padding:0.5em;
 	border: 5px solid lavender;
+	font-display: auto;
+		
 }
+
 .my-class3 {
-	background-color: cornflowerblue
-}
-#id2 {
-	font-size: 20px;
-	color:antiquewhite;
-	background-color: darksalmon;
-	padding: inherit;
-	border: 3px solid snow; 
-	text-align: center;
+	background-color: cornflowerblue;
+	margin-left: 60px;
+	margin-right: 60px;
 	
-}
+}	
+	
+
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
