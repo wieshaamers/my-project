@@ -25,6 +25,7 @@
 	padding:0.5em;
 	border: 5px solid lavender;
 	font-display: auto;
+	
 		
 }
 
@@ -33,7 +34,15 @@
 	margin-left: 60px;
 	margin-right: 60px;
 	
-}	
+}
+.my-class4 {
+	color: cornflowerblue;
+    background-color: pink;
+	padding:0,5em;
+	border: 5px solid lavender;
+	font-display: auto;
+    float: left; margin: 0.5em 1em 1em 0; border: 1px solid #999; clear: left;
+}
 	
 
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
